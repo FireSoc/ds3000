@@ -15,3 +15,4 @@
 *.parquet
 *.zip
 .ipynb_checkpoints/
+Bird_Strikes_1990_2023.csv
